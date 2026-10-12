@@ -1,0 +1,7 @@
+.Rhistory
+.Rprofile
+.Rproj.user/
+harmonize.Rproj
+renv/*
+data/*
+output/*

@@ -1,0 +1,5 @@
+{
+    "kernelSupervisor.shutdownTimeout": "24",
+    "interpreters.startupBehavior": "manual",
+    "interpreters.restartOnCrash": false
+}

@@ -1,0 +1,12 @@
+
+# R temporary and session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated outputs (uncomment if appropriate)
+analysis/data/metabolomics
+analysis/data/metagenomics
+
+analysis/output/data/metagenomics
